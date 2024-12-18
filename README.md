@@ -40,5 +40,5 @@ Vue.js, TypeScript, Redux, Redux Toolkit, RTK-query и другими
 
 ###
 
-[![codewars](https://www.codewars.com/users/MacheteBy/badges/large)](https://www.codewars.com/users/MacheteBy) <a href="https://www.linkedin.com/in/macheteby/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/MacheteBy"></a><img width="122" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>&nbsp;![](https://komarev.com/ghpvc/?username=MacheteBy&style=for-the-badge) 
+[![codewars](https://www.codewars.com/users/MacheteBy/badges/large)](https://www.codewars.com/users/MacheteBy) <a href="https://www.linkedin.com/in/macheteby/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/MacheteBy"></a><img width="122" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 
