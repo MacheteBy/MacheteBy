@@ -40,7 +40,6 @@ Vue.js, TypeScript, Redux, Redux Toolkit, RTK-query и другими
 
 ###
 
-[![codewars](https://www.codewars.com/users/MacheteBy/badges/large)](https://www.codewars.com/users/MacheteBy)
 <div align="center"> 
 <a href="https://www.linkedin.com/in/macheteby/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
