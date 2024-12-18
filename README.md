@@ -4,8 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=blue&size=18&lines=Привет,+Я+Владимир%0AFRONTEND+Разработчик" />
 </div>
 
----
-Мой стек технологий 👨‍💻
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left">Привет, я Frontend разработчик с 2+ годами опыта. Работаю с такими технологиями, как React,
+Vue.js, TypeScript, Redux, Redux Toolkit, RTK-query и другими
+сопутствующими библиотеками. Постоянно совершенствую свои
+навыки.
+Я всегда открыт новым возможностям, буду рад общению и
+рассмотрю ваши предложения.</p>
+
+###
+
+<h3 align="left">Мой стек технологий 👨‍💻</h3>
+
+###
+
 <div align="center"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="42" height="42"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS, SCSS, SASS" alt="CSS, SCSS, SASS" width="42" height="42"/>&nbsp;
@@ -20,3 +37,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="42" height="42"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42"/>&nbsp;
 </div>
+
+###
+
