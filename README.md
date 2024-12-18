@@ -5,5 +5,5 @@
 </div>
 
 ###
-
+<img src="https://readme-typing-svg.herokuapp.com?color=blue&lines=Привет👋 Меня зовут Владимир, я FRONTEND Разработчик.">
 <h1 align="center">Привет👋 Меня зовут Алексей!</h1>
