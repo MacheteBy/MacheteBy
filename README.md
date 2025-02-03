@@ -7,8 +7,8 @@
 ###
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/macheteby/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<!-- <a href="https://www.linkedin.com/in/macheteby/"><img width="122" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a> -->
 <a href="https://t.me/MacheteBy">
 <img width="122" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Привет, я Frontend разработчик с 2+ годами опыта. Работаю с такими технологиями, как React,
+<p align="left">Привет, я Frontend разработчик с 3+ годами опыта. Работаю с такими технологиями, как React,
 Vue.js, TypeScript, Redux, Redux Toolkit, RTK-query и другими
 сопутствующими библиотеками. Постоянно совершенствую свои
 навыки.
